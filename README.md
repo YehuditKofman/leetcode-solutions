@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0828-chalkboard-xor-game](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 ## Math
 |  |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0016-3sum-closest) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
