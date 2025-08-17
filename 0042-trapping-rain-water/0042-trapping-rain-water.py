@@ -4,21 +4,17 @@ class Solution(object):
         :type height: List[int]
         :rtype: int
         """
-        if not height:
-            return 0
-
-        left, right = 0, len(height) - 1
-        left_max, right_max = height[left], height[right]
         water = 0
-
-        while left < right:
-            if height[left] < height[right]:
-                left += 1
-                left_max = max(left_max, height[left])
-                water += max(0, left_max - height[left])
-            else:
-                right -= 1
-                right_max = max(right_max, height[right])
-                water += max(0, right_max - height[right])
-
+        stack = []
+        
+        for i, h in enumerate(height):
+            while stack and h > height[stack[-1]]:
+                bottom = stack.pop()
+                if not stack:
+                    break
+                distance = i - stack[-1] - 1
+                bounded_height = min(h, height[stack[-1]]) - height[bottom]
+                water += distance * bounded_height
+            stack.append(i)
+        
         return water
