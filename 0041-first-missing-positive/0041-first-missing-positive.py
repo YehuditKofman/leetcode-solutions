@@ -7,12 +7,12 @@ class Solution(object):
         n = len(nums)
         
         for i in range(n):
-            while 1 <= nums[i] <= n and nums[nums[i] - 1] != nums[i]:
-                correct_index = nums[i] - 1
-                nums[correct_index], nums[i] = nums[i], nums[correct_index]
-        
-        for i in range(n):
-            if nums[i] != i + 1:
+            while 1 <= nums[i] <= n and nums[i] != nums[nums[i] - 1]:
+                j = nums[i] - 1
+                nums[i], nums[j] = nums[j], nums[i]  # swap
+                
+        for i, num in enumerate(nums):
+            if num != i + 1:
                 return i + 1
         
         return n + 1
