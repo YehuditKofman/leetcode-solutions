@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0828-chalkboard-xor-game](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 ## Math
 |  |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
