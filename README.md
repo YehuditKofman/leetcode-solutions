@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0828-chalkboard-xor-game](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 ## Bit Manipulation
 |  |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0828-chalkboard-xor-game](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
