@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0055-jump-game) |
 | [0828-chalkboard-xor-game](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 ## Math
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0055-jump-game) |
 ## Stack
 |  |
 | ------- |
@@ -84,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
