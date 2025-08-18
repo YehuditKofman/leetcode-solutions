@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0044-wildcard-matching) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0044-wildcard-matching](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0044-wildcard-matching) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0044-wildcard-matching) |
 ## Stack
 |  |
 | ------- |
@@ -77,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/YehuditKofman/leetcode-solutions/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
