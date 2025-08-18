@@ -4,10 +4,10 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        n = len(nums)
         maxReach = 0
-        for i in range(n):
+        for i, num in enumerate(nums):
             if i > maxReach:
                 return False
-            maxReach = max(maxReach, i + nums[i])
+            if i + num > maxReach:
+                maxReach = i + num
         return True
